@@ -22,7 +22,7 @@
 
 1. Clone the repo:
    ```bash
-   git clone https://github.com/your-username/liveweaver.git
+   git clone https://github.com/Rajeev-08/Real-Time-Code-Design-Translator.git
 2. Install the dependencies
   ```bash
    npm install
