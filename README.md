@@ -24,11 +24,11 @@
    ```bash
    git clone https://github.com/Rajeev-08/Real-Time-Code-Design-Translator.git
 2. Install the dependencies
-  ```bash
+   ```bash
    npm install
-```
+   ```
 
 3. Start the development server
-  ```bash
-npm run dev
-```
+   ```bash
+   npm run dev
+   ```
